@@ -1,3 +1,0 @@
-E:/Localcode/gitdir/theme/cmake-build-debug/CMakeFiles/theme.dir
-E:/Localcode/gitdir/theme/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Localcode/gitdir/theme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
