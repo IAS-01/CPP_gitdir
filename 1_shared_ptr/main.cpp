@@ -13,11 +13,38 @@ using namespace std;
 // unique_ptr
 
 
+class Test {
+public:
+    Test(string str) {
+        cout << "constructor" << endl;
+    }
+    ~Test() {
+        cout << "destructor" << endl;
+    }
 
 
+private:
+    string str_;
+
+};
+
+
+// auto_ptr 已经被去除
+//void auto_ptr_test()
+//{
+//    auto_ptr<Test> ptrtest(new Test("str..."));
+//}
+
+
+void shared_ptr_test()
+{
+    shared_ptr<Test> ptrtest(new Test("str..."));
+}
 
 
 
 int main() {
-
+//    auto_ptr_test();
+    shared_ptr_test();
+    return 0;
 }
