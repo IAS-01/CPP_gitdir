@@ -1,3 +1,0 @@
-E:/Localcode/gitdir/Shared_ptr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/Localcode/gitdir/Shared_ptr/cmake-build-debug/CMakeFiles/Shared_ptr.dir
-E:/Localcode/gitdir/Shared_ptr/cmake-build-debug/CMakeFiles/edit_cache.dir
