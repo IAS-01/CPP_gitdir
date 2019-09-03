@@ -1,0 +1,3 @@
+E:/Localcode/gitdir/sampleTest/cmake-build-debug/CMakeFiles/sampleTest.dir
+E:/Localcode/gitdir/sampleTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Localcode/gitdir/sampleTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
