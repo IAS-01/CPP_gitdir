@@ -1,0 +1,3 @@
+E:/Localcode/gitdir/vector/cmake-build-debug/CMakeFiles/vector.dir
+E:/Localcode/gitdir/vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Localcode/gitdir/vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
